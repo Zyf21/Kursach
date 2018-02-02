@@ -1,0 +1,136 @@
+C:\Users\техно\AppData\Local\Temporary Projects\Kyrsach\bin\Debug\Kyrsach.exe
+C:\Users\техно\AppData\Local\Temporary Projects\Kyrsach\bin\Debug\Kyrsach.pdb
+C:\Users\техно\AppData\Local\Temporary Projects\Kyrsach\obj\x86\Debug\Kyrsach.Form1.resources
+C:\Users\техно\AppData\Local\Temporary Projects\Kyrsach\obj\x86\Debug\Kyrsach.Properties.Resources.resources
+C:\Users\техно\AppData\Local\Temporary Projects\Kyrsach\obj\x86\Debug\Kyrsach.csproj.GenerateResource.Cache
+C:\Users\техно\AppData\Local\Temporary Projects\Kyrsach\obj\x86\Debug\Kyrsach.exe
+C:\Users\техно\AppData\Local\Temporary Projects\Kyrsach\obj\x86\Debug\Kyrsach.pdb
+D:\Документы\С#\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.exe
+D:\Документы\С#\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.pdb
+D:\Документы\С#\Kyrsach\Kyrsach\bin\Debug\Kyrsach.exe
+D:\Документы\С#\Kyrsach\Kyrsach\bin\Debug\Kyrsach.pdb
+D:\Документы\С#\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.Form1.resources
+D:\Документы\С#\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.Properties.Resources.resources
+D:\Документы\С#\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.csproj.GenerateResource.Cache
+D:\Документы\С#\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.csprojResolveAssemblyReference.cache
+D:\Документы\С#\снег чужой\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.exe
+D:\Документы\С#\снег чужой\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.pdb
+D:\Примеры кода\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.exe
+D:\Примеры кода\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.pdb
+D:\Примеры кода\Kyrsach\Kyrsach\bin\Debug\Kyrsach.exe
+D:\Примеры кода\Kyrsach\Kyrsach\bin\Debug\Kyrsach.pdb
+D:\Примеры кода\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.csprojResolveAssemblyReference.cache
+D:\Примеры кода\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.Form1.resources
+D:\Примеры кода\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.Properties.Resources.resources
+D:\Примеры кода\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.csproj.GenerateResource.Cache
+D:\Загрузки\MoveButton\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.exe
+D:\Загрузки\MoveButton\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.pdb
+D:\Загрузки\MoveButton\Kyrsach\Kyrsach\bin\Debug\Kyrsach.exe
+D:\Загрузки\MoveButton\Kyrsach\Kyrsach\bin\Debug\Kyrsach.pdb
+D:\Загрузки\MoveButton\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.csprojResolveAssemblyReference.cache
+D:\Загрузки\MoveButton\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.Form1.resources
+D:\Загрузки\MoveButton\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.Properties.Resources.resources
+D:\Загрузки\MoveButton\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.csproj.GenerateResource.Cache
+D:\Документы\С#\2 КУРС\КУРСОВАЯ 2 курск\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.exe
+D:\Документы\С#\2 КУРС\КУРСОВАЯ 2 курск\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.pdb
+D:\Документы\С#\2 КУРС\КУРСОВАЯ 2 курск\Kyrsach\Kyrsach\bin\Debug\Kyrsach.exe
+D:\Документы\С#\2 КУРС\КУРСОВАЯ 2 курск\Kyrsach\Kyrsach\bin\Debug\Kyrsach.pdb
+D:\Документы\С#\2 КУРС\КУРСОВАЯ 2 курск\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.csprojResolveAssemblyReference.cache
+D:\Документы\С#\2 КУРС\КУРСОВАЯ 2 курск\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.Form1.resources
+D:\Документы\С#\2 КУРС\КУРСОВАЯ 2 курск\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.Properties.Resources.resources
+D:\Документы\С#\2 КУРС\КУРСОВАЯ 2 курск\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.csproj.GenerateResource.Cache
+F:\Програмирование\Курсовая 5\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.exe
+F:\Програмирование\Курсовая 5\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.pdb
+F:\Програмирование\Курсовая 5\Kyrsach\Kyrsach\bin\Debug\Kyrsach.exe
+F:\Програмирование\Курсовая 5\Kyrsach\Kyrsach\bin\Debug\Kyrsach.pdb
+F:\Програмирование\Курсовая 5\Kyrsach\Kyrsach\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Програмирование\Курсовая 5\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.Form1.resources
+F:\Програмирование\Курсовая 5\Kyrsach\Kyrsach\obj\x86\Debug\Kyrsach.Properties.Resources.resources
+F:\Програмирование\Курсовая 5\Kyrsach\Kyrsach\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Програмирование\Курсовая 5\Kyrsach\Kyrsach\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Документы\С#\2 КУРС\КУРСОВАЯ 2 курск\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.exe
+D:\Документы\С#\2 КУРС\КУРСОВАЯ 2 курск\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.pdb
+D:\Документы\С#\2 КУРС\КУРСОВАЯ 2 курск\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.csprojResolveAssemblyReference.cache
+D:\Документы\С#\2 КУРС\КУРСОВАЯ 2 курск\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.Form1.resources
+D:\Документы\С#\2 КУРС\КУРСОВАЯ 2 курск\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.Properties.Resources.resources
+D:\Документы\С#\2 КУРС\КУРСОВАЯ 2 курск\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.csproj.GenerateResource.Cache
+D:\Документы\С#\2 КУРС\КУРСОВАЯ 2 курск\Kyrsachккк\Kyrsach\bin\Debug\Kyrsach.exe
+D:\Документы\С#\2 КУРС\КУРСОВАЯ 2 курск\Kyrsachккк\Kyrsach\bin\Debug\Kyrsach.pdb
+F:\Програмирование\ГОТОВАЯ КРСОВАЯ\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.exe
+F:\Програмирование\ГОТОВАЯ КРСОВАЯ\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.pdb
+F:\Програмирование\ГОТОВАЯ КРСОВАЯ\Kyrsachккк\Kyrsach\bin\Debug\Kyrsach.exe
+F:\Програмирование\ГОТОВАЯ КРСОВАЯ\Kyrsachккк\Kyrsach\bin\Debug\Kyrsach.pdb
+F:\Програмирование\ГОТОВАЯ КРСОВАЯ\Kyrsachккк\Kyrsach\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Програмирование\ГОТОВАЯ КРСОВАЯ\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.Form1.resources
+F:\Програмирование\ГОТОВАЯ КРСОВАЯ\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.Properties.Resources.resources
+F:\Програмирование\ГОТОВАЯ КРСОВАЯ\Kyrsachккк\Kyrsach\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Програмирование\ГОТОВАЯ КРСОВАЯ\Kyrsachккк\Kyrsach\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Документы\С#\2 КУРС\КУРСОВАЯ 2 курск\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.Form2.resources
+I:\Програмирование\ГОТОВАЯ КРСОВАЯ\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.exe
+I:\Програмирование\ГОТОВАЯ КРСОВАЯ\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.pdb
+G:\Програмирование\ГОТОВАЯ КРСОВАЯ\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.exe
+G:\Програмирование\ГОТОВАЯ КРСОВАЯ\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.pdb
+J:\Програмирование\ГОТОВАЯ КРСОВАЯ\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.exe
+J:\Програмирование\ГОТОВАЯ КРСОВАЯ\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.pdb
+J:\Програмирование\ГОТОВАЯ КРСОВАЯ\Kyrsachккк\Kyrsach\bin\Debug\Kyrsach.exe
+J:\Програмирование\ГОТОВАЯ КРСОВАЯ\Kyrsachккк\Kyrsach\bin\Debug\Kyrsach.pdb
+J:\Програмирование\ГОТОВАЯ КРСОВАЯ\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.csprojResolveAssemblyReference.cache
+J:\Програмирование\ГОТОВАЯ КРСОВАЯ\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.Form1.resources
+J:\Програмирование\ГОТОВАЯ КРСОВАЯ\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.Form2.resources
+J:\Програмирование\ГОТОВАЯ КРСОВАЯ\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.Properties.Resources.resources
+J:\Програмирование\ГОТОВАЯ КРСОВАЯ\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.csproj.GenerateResource.Cache
+D:\Документы\2 курс курсовые\Комп сети\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.exe
+D:\Документы\2 курс курсовые\Комп сети\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.pdb
+D:\Документы\2 курс курсовые\Комп сети\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.csprojResolveAssemblyReference.cache
+D:\Документы\2 курс курсовые\Комп сети\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.Form1.resources
+D:\Документы\2 курс курсовые\Комп сети\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.Form2.resources
+D:\Документы\2 курс курсовые\Комп сети\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.FormSMTP.resources
+D:\Документы\2 курс курсовые\Комп сети\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.Properties.Resources.resources
+D:\Документы\2 курс курсовые\Комп сети\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.csproj.GenerateResource.Cache
+D:\Документы\2 курс курсовые\Комп сети\Kyrsachккк\Kyrsach\bin\Debug\Kyrsach.exe
+D:\Документы\2 курс курсовые\Комп сети\Kyrsachккк\Kyrsach\bin\Debug\Kyrsach.pdb
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.exe
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.pdb
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Kyrsachккк\Kyrsach\bin\Debug\Kyrsach.exe
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Kyrsachккк\Kyrsach\bin\Debug\Kyrsach.pdb
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.csprojResolveAssemblyReference.cache
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.Form1.resources
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.Form2.resources
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.FormSMTP.resources
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.Properties.Resources.resources
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.csproj.GenerateResource.Cache
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Пробная 2 копия\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.exe
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Пробная 2 копия\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.pdb
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Пробная 2 копия\Kyrsachккк\Kyrsach\bin\Debug\Kyrsach.exe
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Пробная 2 копия\Kyrsachккк\Kyrsach\bin\Debug\Kyrsach.pdb
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Пробная 2 копия\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.csprojResolveAssemblyReference.cache
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Пробная 2 копия\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.Form1.resources
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Пробная 2 копия\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.Form2.resources
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Пробная 2 копия\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.FormSMTP.resources
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Пробная 2 копия\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.Properties.Resources.resources
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Пробная 2 копия\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.csproj.GenerateResource.Cache
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Пробная 2 копия\Kyrsachккк\Kyrsach\bin\Debug\OpenPop.dll
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Пробная 2 копия\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.PopForm.resources
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Пробная 3\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.exe
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Пробная 3\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.pdb
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Пробная 3\Kyrsachккк\Kyrsach\bin\Debug\Kyrsach.exe
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Пробная 3\Kyrsachккк\Kyrsach\bin\Debug\Kyrsach.pdb
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Пробная 3\Kyrsachккк\Kyrsach\bin\Debug\OpenPop.dll
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Пробная 3\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.csprojResolveAssemblyReference.cache
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Пробная 3\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.Form1.resources
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Пробная 3\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.Form2.resources
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Пробная 3\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.FormSMTP.resources
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Пробная 3\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.PopForm.resources
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Пробная 3\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.Properties.Resources.resources
+D:\Документы\2 курс курсовые\Комп сети\Пробная\Пробная 3\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.csproj.GenerateResource.Cache
+K:\Компьютерные сети\КУРСОВАЯ\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.exe
+K:\Компьютерные сети\КУРСОВАЯ\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.pdb
+K:\Компьютерные сети\КУРСОВАЯ\Kyrsachккк\Kyrsach\bin\Debug\Kyrsach.exe
+K:\Компьютерные сети\КУРСОВАЯ\Kyrsachккк\Kyrsach\bin\Debug\Kyrsach.pdb
+K:\Компьютерные сети\КУРСОВАЯ\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.csprojResolveAssemblyReference.cache
+K:\Компьютерные сети\КУРСОВАЯ\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.Form1.resources
+K:\Компьютерные сети\КУРСОВАЯ\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.Form2.resources
+K:\Компьютерные сети\КУРСОВАЯ\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.FormSMTP.resources
+K:\Компьютерные сети\КУРСОВАЯ\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.PopForm.resources
+K:\Компьютерные сети\КУРСОВАЯ\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.Properties.Resources.resources
+K:\Компьютерные сети\КУРСОВАЯ\Kyrsachккк\Kyrsach\obj\x86\Debug\Kyrsach.csproj.GenerateResource.Cache

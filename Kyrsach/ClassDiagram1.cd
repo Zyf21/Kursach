@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Kyrsach.Asphalt">
+    <Position X="0.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEABAAAAAAAAEAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Asphalt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kyrsach.Bezshlam">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAEABAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Bezshlam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kyrsach.Breakstone">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEABAAAAAAAQAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Breakstone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kyrsach.Form1" Collapsed="true">
+    <Position X="14.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAA0AACAkABAAABCGAAACQNg4AAAAEHAOAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kyrsach.Form2" Collapsed="true">
+    <Position X="16.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAEAgCIAQBAQAACAgAACAAAMAAAkUEACACAAAEA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kyrsach.Objects_work" Collapsed="true">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAFABAAAAQAAEAFAABAAQAIAAAACAA=</HashCode>
+      <FileName>Objects_work.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kyrsach.Program" Collapsed="true">
+    <Position X="18" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kyrsach.Quarry" Collapsed="true">
+    <Position X="14.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Quarry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kyrsach.Roads" Collapsed="true">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAABAAAAAQAAAAEAAAAAAA=</HashCode>
+      <FileName>Roads.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kyrsach.Shlam">
+    <Position X="12" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAABAAEABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shlam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kyrsach.Slabs">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAQEAFEAAABBAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Slabs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kyrsach.Soil">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEABAIAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Soil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kyrsach.Well_pads" Collapsed="true">
+    <Position X="10.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgBAAAIAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Well_pads.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kyrsach.Properties.Resources" Collapsed="true">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kyrsach.Properties.Settings" Collapsed="true">
+    <Position X="18" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="8.25" />
+</ClassDiagram>
